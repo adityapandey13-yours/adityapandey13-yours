@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning<br>👯 I’m looking to collaboraten<br>🤝 I’m currently learning DSA and Web Development<br>💬 Ask me about<br>
+🔭 I’m currently working on learning<br>👯 I’m looking to collaborate<br>🤝 I’m currently learning DSA and Web Development<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
